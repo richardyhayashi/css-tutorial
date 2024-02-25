@@ -15,13 +15,17 @@
 
 `https://coolors.co`
 
+### Google Fonts
+
+`https://fonts.google.com`
+
 ## YouTube
 1. Chapter 1: Start Here
 2. Chapter 2: Selectors
 3. Chapter 3: Colors
 4. Chapter 4: Units & Sizes
 5. Chapter 5: Box Model
-6.
+6. Chapter 6: Typography
 7.
 8.
 9.

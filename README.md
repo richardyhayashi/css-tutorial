@@ -11,10 +11,14 @@
 
 `https://specificity.keegan.st`
 
+### Coolers
+
+`https://coolors.co`
+
 ## YouTube
 1. Chapter 1: Start Here
 2. Chapter 2: Selectors
-3.
+3. Chapter 3: Colors
 4.
 5.
 6.

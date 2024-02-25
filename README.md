@@ -20,7 +20,7 @@
 2. Chapter 2: Selectors
 3. Chapter 3: Colors
 4. Chapter 4: Units & Sizes
-5.
+5. Chapter 5: Box Model
 6.
 7.
 8.
